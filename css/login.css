@@ -188,4 +188,8 @@ a:link {
 .footer,p{
   font-size: 15px;
 }
-/*final contatos*/
+
+input, textarea{
+    color: #38a3a5 !important;
+    background-color: transparent !important;
+}
