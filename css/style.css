@@ -173,6 +173,11 @@ a:link {
   border-image-slice: 1;
   border-width: 2px;
 }
+
+input, textarea{
+    color: #38a3a5 !important;
+    background-color: transparent !important;
+}
 .form-control{
   font-size: 17px;
 }
